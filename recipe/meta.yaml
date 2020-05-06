@@ -58,7 +58,7 @@ about:
   home: https://github.com/richierocks/pathological
   license: Unlimited
   summary: Utilities for paths, files and directories.
-  license_family: MIT
+  license_family: OTHER
 
 extra:
   recipe-maintainers:
